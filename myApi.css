@@ -1,0 +1,23 @@
+.buttons {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.buttons button {
+  margin: 5px;
+}
+
+#imageContainer {
+  text-align: center;
+}
+
+#imageContainer img {
+  margin-top: 20px;
+}
+
+#imageDescription {
+  text-align: center;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
